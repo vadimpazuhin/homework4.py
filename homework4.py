@@ -1,7 +1,3 @@
-#print('привет,я строка в нижнм регистре'.upper())
-#print('ПРИВЕТ,Я СТРОКА В ВЕРХНЕМ РЕГИСТРЕ'.lower())
-#print('привет,я строка в нижнем регистре'.replace('привет','хай'))
-#print('привет,я строка в нижнем регистре'.replace(' ','_'))
 my_string = input()
 print(my_string.upper())
 print(my_string.lower())
